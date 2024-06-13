@@ -1,5 +1,7 @@
-This repository is dedicated to providing the readers of Louis Jaffeux's articles on Optical Array Probe morphological analysis with Convolutional Neural Networks (CNN).
+This repository is dedicated to providing the readers of Louis Jaffeux's AMT article:
+
+# Ice crystal images from optical array probes : Compatibility of morphology specific size distributions, retrieved with specific and global Convolutional Neural Networks for HVPS, PIP, CIP, and 2DS.
+
 It contains the training/validation/testing data for each CNN, the trained models.
-Finally, it provides the python codes used for training and creating the morphology specific spectra.
 
 
